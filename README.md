@@ -12,7 +12,7 @@ Include it like this in your component: `include 'leaflet-search'` and add the d
 
 
 # Summary
-This package contains type definitions for leaflet-draw (https://github.com/stefanocudini/leaflet-search).
+This package contains type definitions for leaflet-search (https://github.com/stefanocudini/leaflet-search).
 
 # Details
 
