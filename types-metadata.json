@@ -1,0 +1,29 @@
+{
+    "name": "leaflet-search",
+    "libraryName": "leaflet-search",
+    "sourceRepoURL": "https://github.com/bastisk/leaflet-search-types",
+    "data": {
+        "authors": "Sebastian Kiepsch",
+        "dependencies": {
+            "leaflet": "*"
+        },
+        "pathMappings": {},
+        "libraryMajorVersion": 2,
+        "libraryMinorVersion": 7,
+        "typeScriptVersion": "2.0",
+        "libraryName": "leaflet-search",
+        "typingsPackageName": "leaflet-search",
+        "projectName": "https://github.com/stefanocudini/leaflet-search",
+        "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+        "globals": [
+            "L"
+        ],
+        "declaredModules": [],
+        "files": [
+            "index.d.ts"
+        ],
+        "hasPackageJson": false,
+        "contentHash": "xx"
+    },
+    "isLatest": true
+}
